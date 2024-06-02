@@ -1,0 +1,6 @@
+tmp
+build
+docker/**/data
+data
+config.yml
+docker/local
